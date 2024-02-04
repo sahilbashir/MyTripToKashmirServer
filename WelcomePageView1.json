@@ -3,7 +3,7 @@
 {
   "id" :1,
   "name":"Gulmarg",
-  "description":"Gulmarg is a beautiful place situated in Baramulla district of Kashmir valley.Also know as the winter-wonderland it is famous for gondola ride and various snow 
+  "description":"Gulmarg is a beautiful place situated in Baramulla district of Kashmir valley.Also know as the winter-wonderland it is famous for gondola ride and various snow\\n
   activities like sking and snowboarding",
   "price":8000,
   "stars":5,
@@ -16,7 +16,7 @@
 {
    "id" :2,
   "name":"Pahalgam",
-  "description":"Pahalgam is a beautiful place situated in Baramulla district of Kashmir valley.Also know as the winter-wonderland it is famous for gondola ride and various snow 
+  "description":"Pahalgam is a beautiful place situated in Baramulla district of Kashmir valley.Also know as the winter-wonderland it is famous for gondola ride and various snow \\n
   activities like sking and snowboarding",
   "price":7000,
   "stars":4,
@@ -33,7 +33,7 @@
 
    "id" :3,
   "name":"Sonamarg",
-  "description":"Sonamarg is a beautiful place situated in Baramulla district of Kashmir valley.Also know as the winter-wonderland it is famous for gondola ride and various snow 
+  "description":"Sonamarg is a beautiful place situated in Baramulla district of Kashmir valley.Also know as the winter-wonderland it is famous for gondola ride and various snow \\n
   activities like sking and snowboarding",
   "price":6000,
   "stars":2,
@@ -51,7 +51,7 @@
 
    "id" :4,
   "name":"Betaab Valley",
-  "description":"Betaab Valley is a beautiful place situated in Baramulla district of Kashmir valley.Also know as the winter-wonderland it is famous for gondola ride and various snow 
+  "description":"Betaab Valley is a beautiful place situated in Baramulla district of Kashmir valley.Also know as the winter-wonderland it is famous for gondola ride and various snow\\n 
   activities like sking and snowboarding",
   "price":5000,
   "stars":5,
