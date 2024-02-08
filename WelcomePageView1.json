@@ -9,7 +9,12 @@
   "people":4,
   "selected_people":4,
   "img":"/images/welcome_one.png",
-  "location":"Kashmir, India"
+  "location":"Kashmir, India",
+  "a1":"Sight-Seeing",
+  "a2":"Gondola",
+  "a3":"Horse Ride",
+  "a4":"Transfers",
+  "a5":"Breakfast"
 },
 
 {
@@ -21,7 +26,12 @@
   "people":2,
   "selected_people":4,
   "img":"/images/welcome_two.jpg",
-  "location":"Kashmir, India"
+  "location":"Kashmir, India",
+  "a1":"Sight-Seeing",
+  "a2":"Betaab Valley Pass",
+  "a3":"Aru Valley Pass",
+  "a4":"Transfers",
+  "a5":"Breakfast"
 },
 
 
@@ -37,7 +47,12 @@
   "people":4,
   "selected_people":1,
   "img":"/images/welcome_three.jpg",
-  "location":"Kashmir, India"
+  "location":"Kashmir, India",
+  "a1":"Sight-Seeing",
+  "a2":"Glacier Trek",
+  "a3":"Horse Ride",
+  "a4":"Transfers",
+  "a5":"Breakfast"
 
   },
 
@@ -54,7 +69,12 @@
   "people":4,
   "selected_people":4,
   "img":"/images/welcome_four.jpg",
-  "location":"Kashmir, India"
+  "location":"Kashmir, India",
+  "a1":"Sight-Seeing",
+  "a2":"Gondola",
+  "a3":"Horse Ride",
+  "a4":"Transfers",
+  "a5":"Breakfast"
 
   }
 
