@@ -8,10 +8,7 @@
   "stars":5,
   "people":4,
   "selected_people":4,
-  "img":["/images/welcome_one.png",
-  "/images/welcome_two.jpg",
-    "/images/welcome_three.jpg"
-  ],
+  "img":"/images/welcome_one.png",
   "location":"Kashmir, India",
   "a1":"Sight-Seeing",
   "a2":"Gondola",
