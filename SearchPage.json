@@ -4,13 +4,15 @@
 
     "id":1,
     "name":"Shikara Ride",
-    "description":"Hello" 
+    "description":"Hello",
+    "tag":"a"
   },
 
   {
 
     "id":2,
     "name":"Paragliding",
-    "description":"good"
+    "description":"good",
+    "tag":"b"
   },
 ]
