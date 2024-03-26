@@ -5,6 +5,7 @@
     "id":1,
     "name":"Shikara Ride",
     "description":"Hello",
+    "img":"/images/shikara/shikara01.jpg",
     "tag":"a"
   },
 
@@ -13,6 +14,7 @@
     "id":2,
     "name":"Paragliding",
     "description":"good",
+    "img":"/images/shikara/shikara01.jpg",
     "tag":"b"
   }
 ]
