@@ -5,7 +5,7 @@
     "id":1,
     "name":"Shikara Ride",
     "description":"Hello",
-    "img":"/images/shikara/shikara01.jpeg",
+    "img":"https:/github.com/sahilbashir/MyTripToKashmirServer/images/shikara/shikara01.jpeg",
     "tag":"a"
   },
 
@@ -14,7 +14,7 @@
     "id":2,
     "name":"Paragliding",
     "description":"good",
-    "img":"/images/shikara/shikara01.jpeg",
+    "img":"https:/github.com/sahilbashir/MyTripToKashmirServer/images/shikara/shikara01.jpeg",
     "tag":"b"
   }
 ]
