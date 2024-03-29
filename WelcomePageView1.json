@@ -85,6 +85,47 @@
   "a4":"Transfers",
   "a5":"Breakfast"
 
-  }
+  },
+  
+{
+  "id" :5,
+  "name":"Doodhpathri",
+  "description":"Nature's Serenity Unveiled. An off-beat hill station situated 42km away from capital city of Srinagar",
+  "price":8000,
+  "stars":4,
+  "people":4,
+  "selected_people":4,
+  "img":"/images/trekking/trekking01.jpeg",
+  "img2":"/images/gulmarg/gulmarg01.jpg",
+  "img3":"/images/gulmarg/gulmarg02.jpg",
+  
+  "location":"Kashmir, India",
+  "a1":"Sight-Seeing",
+  "a2":"Gondola",
+  "a3":"Horse Ride",
+  "a4":"Transfers",
+  "a5":"Breakfast"
+},
+
+  
+{
+  "id" :6,
+  "name":"Srinagar",
+  "description":"Srinagar is the summer capital of Jammu & Kashmir. It is situated in Kashmir valley and lies on banks of Jehlum River, a tributary of the Indus. The city is famous for its gardens, lakes and houseboats.",
+  "price":8000,
+  "stars":5,
+  "people":4,
+  "selected_people":4,
+  "img":"/images/shikara/shikara02.jpeg",
+  "img2":"/images/gulmarg/gulmarg01.jpg",
+  "img3":"/images/gulmarg/gulmarg02.jpg",
+  
+  "location":"Kashmir, India",
+  "a1":"Pari Mahal",
+  "a2":"Nishat Garden",
+  "a3":"Shalimar Garden",
+  "a4":"Dal Lake",
+  "a5":"Hazratbal Shrine"
+},
 
 ]
